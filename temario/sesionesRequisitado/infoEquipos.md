@@ -23,7 +23,7 @@ Los documentos que se deben presentar al final de esta dinámica (es decir, a fi
 - Documentos de modelo de dominio - que describe la realidad actual de sus procesos.
 - Documentos de casos de uso - que describe lo que quieren hacer/automatizar/mejorar de esos procesos, mediante la solución que desarrollarían.
 
-Estos documentos quedarán presentados de modo formal en el [**repositorio de la actividad**](https://github.com/mmasias/23-24-IdSw1-SDR), de acuerdo a los lineamientos que allí queden plasmados.
+Estos documentos quedarán presentados de modo formal en el [**repositorio de la actividad**](https://github.com/mmasias/26-27-IdSw1-SDR), de acuerdo a los lineamientos que allí queden plasmados.
 
 Dos ejemplos de lo que deberíamos obtener se irán construyendo junto a ustedes en sendos repositorios:
 
