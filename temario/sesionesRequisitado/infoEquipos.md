@@ -41,8 +41,8 @@ Otros ejemplos existentes (ya completos, verlos con precaución para evitar *spo
 
 El planning previsto está publicado en la hoja de clase: como mínimo dos sesiones de dos horas cada una, en las siguientes fechas:
 
-- Semana del 16 al 20 de octubre.
-- Semana del 20 al 24 de noviembre. 
+- Semana del 26 al 30 de octubre.
+- Semana del 23 al 27 de noviembre. 
 
 ||
 |-|
